@@ -2,7 +2,7 @@
  * Bill Nicholson
  * nicholdw@ucmail.uc.edu
  * Printing pyramids using loops. It kind-of works. 
- * What I really want is
+ * What I really want is.
         1
        222
       33333
